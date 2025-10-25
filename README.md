@@ -32,7 +32,8 @@ Sometimes I take part in **CTF** competitions.
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square"/> 
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square"/> 
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square"/> 
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/> 
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square"/> 
   <img alt="Latte" src="https://img.shields.io/badge/Latte-3E3E3E?style=flat-square"/>
 </p>
@@ -41,7 +42,7 @@ Sometimes I take part in **CTF** competitions.
 <p align="left">
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square"/> 
   <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square"/>
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square"/>
 </p>
 
 **Tools**  
